@@ -1,3 +1,8 @@
+Assignment made for Solulab. The task was to create the design from the figma file. The website is made using React js and Bootstrap.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
