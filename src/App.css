@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.sidenavhover:hover{
+  background-color: orangered;
+  color:whitesmoke;
+}
+
+.dataHover:hover{
+  background-color: white;
+  color: blue;
+}
